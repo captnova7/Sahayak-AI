@@ -27,17 +27,15 @@
 - [🖥️ User Interface](#-user-interface)
 - [⚡ Quick Start](#-quick-start)
 - [🔧 Development Setup](#-development-setup)
-- [📱 Screenshots](#-screenshots)
 - [🎯 Use Cases](#-use-cases)
 - [📦 Deployment](#-deployment)
-- [🤝 Contributing](#-contributing)
-- [🙏 Acknowledgments](#-acknowledgments)
+
 
 ---
 
 ## 🌟 Overview
 
-**Sahayak Teacher** (सहायक शिक्षक) is a revolutionary web application designed specifically for educators in India, leveraging cutting-edge AI to transform how teaching materials are created and delivered. Built with a deep understanding of the Indian educational landscape, our platform addresses the unique challenges faced by teachers across diverse linguistic, cultural, and technological contexts.
+**Sahayak Teacher** is a revolutionary web application designed specifically for educators in India, leveraging cutting-edge AI to transform how teaching materials are created and delivered. Built with a deep understanding of the Indian educational landscape, our platform addresses the unique challenges faced by teachers across diverse linguistic, cultural, and technological contexts.
 
 ### 🎯 Key Differentiators
 - **🇮🇳 Made for India**: Tailored specifically for Indian curricula and educational contexts
@@ -170,17 +168,10 @@ User Journey: Grade 6 Science Teacher, Rural Karnataka
 
 ## ⚡ Quick Start
 
-### For Educators (No Setup Required)
-1. **Visit**: [sahayak-teacher.web.app](https://sahayak-teacher.web.app) *(coming soon)*
-2. **Sign in**: Use your phone number
-3. **Select language**: Choose your preferred language
-4. **Start teaching**: All features available immediately
-
-### For Developers (3-Minute Setup)
 ```bash
 # Clone & Enter Directory
-git clone https://github.com/Muneerali199/sahayak-sikshak
-cd sahayak-sikshak
+git clone https://github.com/captnova7/Sahayak-AI
+cd sahayak-sikshak-master
 
 # Install Dependencies
 npm install
@@ -228,7 +219,7 @@ npm run test:e2e
 
 ---
 
-## 📱 Screenshots & User Journey
+## 📱 User Journey
 
 ### 🎯 Teacher Dashboard
 ![Dashboard Overview](https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
@@ -312,52 +303,10 @@ We welcome contributions from educators and developers!
 - **Q3 2025**: Parent collaboration features
 - **Q4 2025**: AI co-teacher for classroom management
 
-### 📋 Contributor Guidelines
-1. **Educators**: Follow our [Teacher Contributors Guide](./docs/teacher-contributors.md)
-2. **Developers**: See [Contributing.md](./CONTRIBUTING.md)  
-3. **Designers**: Check [Design Guidelines](./docs/design-guidelines.md)
-
----
-
-## 🙏 Acknowledgments
-
-### 🏆 Supporting Organizations
-- **Government of India**: Digital India initiative support
-- **National Education Policy**: Alignment with NEP 2020 goals
-- **State Education Boards**: Curriculum mapping assistance
-- **Teacher Training Institutes**: Professional development support
-
-### 🌟 Key Contributors
-- **Muneer Ali** - Platform Architecture & AI Integration
-- **Community Teachers** - 500+ educators provided feedback
-- **Open Source Contributors** - 200+ GitHub contributors worldwide
-
----
-
 ## 📜 License
 
 **Open Source for Education**  
 This project is licensed under **MIT License** - see [LICENSE](./LICENSE) for details.
-
-### 🤲 Special License for Educators
-- **Personal Use**: Completely free, unlimited usage
-- **Commercial Use**: Free for educational institutions in India
-- **Research Use**: Available for academic research projects
-
----
-
-## 📞 Get in Touch
-
-| Channel | Contact |
-|---------|---------|
-| **App Demo** | 📱 [Book a live demo](https://calendly.com/sahayak-teacher/demo) |
-| **Support** | 📧 [teachers@sahayak.tech](mailto:teachers@sahayak.tech) |
-| **WhatsApp** | 💬 [+91-98765-43210](wa.me/919876543210) |
-| **Community** | 🌐 [Discord Server](https://discord.gg/sahayak-teacher) |
-
----
-
-<div align="center">
 
 ### 📚 **Built by educators, for educators** 📚
 #### Made with ❤️ in India, serving teachers worldwide
