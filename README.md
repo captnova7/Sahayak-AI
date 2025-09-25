@@ -170,8 +170,8 @@ User Journey: Grade 6 Science Teacher, Rural Karnataka
 
 ```bash
 # Clone & Enter Directory
-git clone https://github.com/Muneerali199/sahayak-sikshak
-cd sahayak-sikshak
+git clone https://github.com/captnova7/Sahayak-AI
+cd sahayak-sikshak-master
 
 # Install Dependencies
 npm install
